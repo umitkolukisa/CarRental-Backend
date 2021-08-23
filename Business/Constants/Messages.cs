@@ -19,6 +19,11 @@ namespace Business.Constants
         public static string RentalsListed = "Kiralamalar Listelendi";
         public static string RentalDetailsListed = "Kiralama Detayları Listelendi";
         public static string CarReturnedFromRental = "Araba Kiradan dönmedi";
-
+        public static string AllCarImagesListed = "Tüm Araba Resimleri Listtelendi";
+        public static string CarImagesListedByCarId = "Bu Id Numarasına Ait Araba Resimleri Listelendi";
+        public static string ImageDeleted = "Resim Silindi";
+        public static string ImageNotFound = "Resim Bulunamadı";
+        public static string ImageUpdated = "Resim Güncellendi";
+        public static string ImageAdded = "Resim Eklendi";
     }
 }
